@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>I'm a Digital Technology Professional with a background in **Software Engineering** and experience as a **Full Stack Engineer**. I'm working toward becoming a **Forward Deployed Engineer (FDE)**, where I can turn technology into practical solutions that solve real business problems.<br><br>🚀 Focus: Exploring new ideas, innovations, and emerging technologies<br>🌱 Learning: Building Reliable Web Applications with Angular, Node.js & PostgreSQL | Cloud, Containers & Messaging Systems<br>🤝 Open to: Collaboration on new ideas, learning opportunities, and engineering challenges<br>📫 Reach me at: https://www.linkedin.com/in/siddheshnaik1399/
+## 👋 About Me<br><br>I'm a Digital Technology Experienced Professional in **Software Engineering** working at Baker Hughes. I'm working toward becoming a **Forward Deployed Engineer (FDE)**, where I can turn technology into practical solutions that solve real business problems.<br><br>🚀 Focus: Exploring new ideas, innovations, and emerging technologies<br>🌱 Learning: Building Reliable Web Applications with Angular, Node.js & PostgreSQL | Cloud, Containers & Messaging Systems<br>🤝 Open to: Collaboration on new ideas, learning opportunities, and engineering challenges<br>📫 Reach me at: https://www.linkedin.com/in/siddheshnaik1399/
 
 
 ## 🌐 Socials:
